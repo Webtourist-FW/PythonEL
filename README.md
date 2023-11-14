@@ -1,5 +1,5 @@
 # PythonEL
-# Start am 14.11.2023 aös Multi-Talent für das Extrahieren und Laden von Daten aus unterschiedlichsten Quellen in verschiedene Ziele
+# Start am 14.11.2023 als Multi-Talent für das Extrahieren und Laden von Daten aus unterschiedlichsten Quellen in verschiedene Ziele
 #
 # Quellen (Sources):
 #   csv
