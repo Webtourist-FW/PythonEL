@@ -1,7 +1,7 @@
-""" BRAXEL Grundlogik. Definiert Methoden um Konfiguration zu laden und zu verarbeiten, Jobs zu erstellen und auszuführen.
+""" Grundlogik. Definiert Methoden um Konfiguration zu laden und zu verarbeiten, Jobs zu erstellen und auszuführen.
 
     Classes:
-        Braxel
+        PyEL
 
 """
 
