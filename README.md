@@ -4,7 +4,7 @@
 # Quellen (Sources):
 #   csv
 #   MS SQL Server-Datenbank
-#   
+#   parquet-Dateien
 #   
 #  
 # Ziele (Targets):
